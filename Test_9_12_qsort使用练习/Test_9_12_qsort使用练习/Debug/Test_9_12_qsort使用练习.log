@@ -1,0 +1,14 @@
+﻿生成启动时间为 2021/9/13 20:48:51。
+     1>项目“E:\编程\c\c-exercise\Test_9_12_qsort使用练习\Test_9_12_qsort使用练习\Test_9_12_qsort使用练习.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Program Files\vs2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt "qsort使用练习.c"
+         qsort使用练习.c
+     1>e:\编程\c\c-exercise\test_9_12_qsort使用练习\test_9_12_qsort使用练习\qsort使用练习.c(21): warning C4013: “qsort”未定义；假设外部返回 int
+       Link:
+         D:\Program Files\vs2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\编程\c\c-exercise\Test_9_12_qsort使用练习\Debug\Test_9_12_qsort使用练习.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\编程\c\c-exercise\Test_9_12_qsort使用练习\Debug\Test_9_12_qsort使用练习.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\编程\c\c-exercise\Test_9_12_qsort使用练习\Debug\Test_9_12_qsort使用练习.lib" /MACHINE:X86 "Debug\qsort使用练习.obj"
+         Test_9_12_qsort使用练习.vcxproj -> E:\编程\c\c-exercise\Test_9_12_qsort使用练习\Debug\Test_9_12_qsort使用练习.exe
+     1>已完成生成项目“E:\编程\c\c-exercise\Test_9_12_qsort使用练习\Test_9_12_qsort使用练习\Test_9_12_qsort使用练习.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.41
